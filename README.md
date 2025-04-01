@@ -1,9 +1,5 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Stsiapan Dziahtsiaryk
 =============================================================================================================================================
-
-Unity Developer
----------------
-
 I am an experienced Unity developer with over three years of commercial game development experience on mobile platforms (iOS, Android). I specialise in creating application architectures, refactoring existing solutions and integrating Zenject using design patterns. I possess in-depth knowledge of OOP, SOLID, data structures and basic algorithms. I have a proven track record of working successfully in teams, conducting code reviews and collaborating effectively with project groups. I am ready to contribute to the development and support of your company's mobile applications.
 
 * 🌍  I'm based in Minsk, Belarus
