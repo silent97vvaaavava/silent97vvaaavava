@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silent97vvaaavava&hide_progress=true&theme=transparent)
+![](https://komarev.com/ghpvc/?username=silent97vvaaavava)
 <!--
 **silent97vvaaavava/silent97vvaaavava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
