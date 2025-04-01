@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silent97vvaaavava)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **silent97vvaaavava/silent97vvaaavava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
